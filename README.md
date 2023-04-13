@@ -16,9 +16,6 @@
    - file **go.mod** define package, module and dependencies
    - *GOROOT & GOPATH:* https://www.jetbrains.com/help/idea/configuring-goroot-and-gopath.html
    - Build container: https://www.codementor.io/@iedesnoek/deploying-a-go-app-with-gin-to-an-azure-container-app-22auximxoe
-   - link repository: https://gitlab.hivetech.vn/microservice/backend/internal_role_permission_go
-   - jira: https://j2.ossigroup.net/projects/PT/summary
-   - confluence: https://c2.ossigroup.net/pages/viewpage.action?pageId=809399
    - funcs: If the functions with names that start with an uppercase letter will be exported to other packages. If the function name starts with a lowercase letter, it won't be exported to other packages, but you can call this function within the same package.
    - **JWT**: https://blog.logrocket.com/jwt-authentication-go/
 ### 4. Run & build
